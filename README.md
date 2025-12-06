@@ -10,3 +10,5 @@ I am completing these on the day the challenge releases!
 - Dec 2: Day 2 solved, I accidentally solved part 2 before part 1, and also this looks like the perfect loading bar.
 - Dec 2: Day 3 solved, got both of them first try (admittedly it was pretty easy)
 - Dec 3: Day 4 solved, Part 1 took 30 minutes and part 2 took about 1 minute, also I am starting to clean up the code from previous days and add documentation.
+- Dec 5: Day 5 solved, Part 1 took 20 minutes and part 2 took a day! Forgot that the next group could be inside the current group ...
+- Dec 6: Day 6 solved, my code is literally horendous lol.
