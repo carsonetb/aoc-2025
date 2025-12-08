@@ -12,3 +12,5 @@ I am completing these on the day the challenge releases!
 - Dec 3: Day 4 solved, Part 1 took 30 minutes and part 2 took about 1 minute, also I am starting to clean up the code from previous days and add documentation.
 - Dec 5: Day 5 solved, Part 1 took 20 minutes and part 2 took a day! Forgot that the next group could be inside the current group ...
 - Dec 6: Day 6 solved, my code is literally horendous lol.
+- Dec 7: Day 7 solved, it was very late at night in a hotel.
+- Dec 8: Day 8 solved, that was an incredibly fun optimization problem, just glad I didn't have to debug it. Also my part2 is literally two thirds of the length.
